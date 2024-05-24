@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/spello/static/css/main.00975b8c.css",
+    "main.js": "/spello/static/js/main.8a4e3de5.js",
+    "static/js/453.d3c1f4a8.chunk.js": "/spello/static/js/453.d3c1f4a8.chunk.js",
+    "index.html": "/spello/index.html",
+    "main.00975b8c.css.map": "/spello/static/css/main.00975b8c.css.map",
+    "main.8a4e3de5.js.map": "/spello/static/js/main.8a4e3de5.js.map",
+    "453.d3c1f4a8.chunk.js.map": "/spello/static/js/453.d3c1f4a8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00975b8c.css",
+    "static/js/main.8a4e3de5.js"
+  ]
+}
